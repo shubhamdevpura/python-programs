@@ -5,4 +5,4 @@ def reverse_sentence(sentence):
 
 if __name__=="__main__":
     input='Hii Heloo'
-    print (reverse_sentence(input))
+    print (ReverseOfSentence(input))
